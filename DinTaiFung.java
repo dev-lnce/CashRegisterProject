@@ -1043,5 +1043,3 @@ public class DinTaiFung {
         return input;
     }
 }
-
-
